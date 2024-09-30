@@ -1,6 +1,6 @@
 ### 干啥啥不行，干饭第一名
 
-![cz's github stats](https://github-readme-stats.vercel.app/api?username=Zhao-sai-sai)
+![cz's github stats](https://github-readme-stats.vercel.app/api?username=CuriousLearnerDev)
 
 
 <!--
